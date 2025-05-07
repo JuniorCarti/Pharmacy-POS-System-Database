@@ -22,7 +22,7 @@ This project implements the database structure for a comprehensive Pharmacy POS 
    * Run the following command to import the SQL file:
 
      ```sql
-     source pharmacy_pos.sql;
+     source Pharmacy_POS_Database.sql;
      ```
 
 3. **Verify the database structure:**
