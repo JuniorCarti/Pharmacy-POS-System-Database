@@ -50,5 +50,5 @@ This project implements the database structure for a comprehensive Pharmacy POS 
 
 ## **Database File:**
 
-* The repository contains one well-commented `pharmacy_pos.sql` file that defines all tables, relationships, and indexes.
+* The repository contains one well-commented `Pharmacy_POS_Database.sql` file that defines all tables, relationships, and indexes.
 
