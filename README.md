@@ -18,7 +18,7 @@ This project implements the database structure for a comprehensive Pharmacy POS 
 
 2. **Import the SQL file into MySQL:**
 
-   * Open your MySQL command line or use a tool like **phpMyAdmin** or **MySQL Workbench**.
+   * Open your MySQL command line or use  **phpMyAdmin** or **MySQL Workbench**.
    * Run the following command to import the SQL file:
 
      ```sql
