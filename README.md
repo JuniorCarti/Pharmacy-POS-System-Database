@@ -33,7 +33,7 @@ This project implements the database structure for a comprehensive Pharmacy POS 
      SHOW TABLES FROM pharmacy_pos;
      ```
 
-4. **Run Queries or Test Data Insertion:**
+4. **Test Data Insertion:**
 
    * Insert sample data to verify the structure. Example:
 
